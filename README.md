@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <head> 
-  <link rel="styledsheet" type="test/css" href="stylesheet.css">
+  <link rel="styledsheet" type="text/css" href="stylesheet.css">
  </head> 
  <body> 
   <div id="header"> 
